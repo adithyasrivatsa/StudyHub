@@ -1,0 +1,25 @@
+{
+  "firestore": {
+    "indexes": "firestore.indexes.json"
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "studyhub-ebbfc",
+          "appId": "1:373106333405:android:2b26fbac45dd1ba13a2d34",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "studyhub-ebbfc",
+          "configurations": {
+            "android": "1:373106333405:android:2b26fbac45dd1ba13a2d34",
+            "web": "1:373106333405:web:66401566e6f7ed663a2d34"
+          }
+        }
+      }
+    }
+  }
+}
